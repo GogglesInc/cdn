@@ -1,7 +1,5 @@
-[![GogglesInc Logo]()](https://gogglesinc.github.io/cdn/images/gogglesinclogolight-png.png) Goggles Inc.
+Goggles Inc.
 
 ## Content Delivery Network (CDN)
 
-This is a CDN for Goggles Inc.'s products.
-
-[![GogglesInc]()](https://gogglesinc.github.io/cdn/images/gogglesinclogolight-png.png)
+> This is a CDN Server for Goggles Inc.'s products.
