@@ -2,8 +2,8 @@
 
 ## Supported Versions
 
-> This is a private use repository and managed by GogglesInc.
+> All versions are managed by GogglesInc.
 
 ## Reporting a Vulnerability
 
-> Because of the above, all vulnerabilities will be spot out and solve.
+> All vulnerabilities will be spot out and solve by GogglesInc.
